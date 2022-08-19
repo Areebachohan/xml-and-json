@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Mobile xmlns:firstphone="https://www.google.com" xmlns:secondphone="https://www.google.com" xmlns:thirdphone="https://www.google.com" xmlns:forthphone="https://www.google.com" xmlns:fifthphone="https://www.google.com">
+
+<firstphone:Oppo>
+<tittle>F21</tittle>
+</firstphone:Oppo>
+
+<secondphone:Oppo>
+<tittle>F22</tittle>
+</secondphone:Oppo>
+
+<thirdphone:Oppo>
+<tittle>F23</tittle>
+</thirdphone:Oppo>
+
+<forthphone:Oppo>
+<tittle>F24</tittle>
+</forthphone:Oppo>
+
+<fifthphone:Oppo>
+<tittle>F25</tittle>
+</fifthphone:Oppo>
+
+</Mobile>
+

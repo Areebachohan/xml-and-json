@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Electronics>
+
+<Mobile>
+<samsung>
+<Model> Note 10 &lt; &amp; &gt; Note 11</Model>
+<price>60000</price>
+<color>Black</color>
+<Memory>128 GB</Memory>
+<Os>Android</Os>
+<Cam>189px</Cam>
+<screensize-description>The simpore OS that has</screensize-description>
+<Rating>6.4</Rating>
+
+
+ </samsung>
+
+
+</Mobile>
+
+</Electronics>

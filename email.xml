@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<Email>
+
+<To>sanamchohan740@gmail.com</To>
+<cc>sanamchohan135@gmail.com</cc>
+<Bcc>Musaknmalik234@gmail.com</Bcc>
+<subjact>Test</subjact>
+<Date>16-Aug-22</Date>
+<Time>12.00am</Time>
+<Message>Hello World</Message>
+
+
+</Email>
